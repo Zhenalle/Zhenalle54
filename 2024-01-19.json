@@ -1,0 +1,26 @@
+{
+  "name": "Brett Ford",
+  "age": 20,
+  "address": {
+    "street": "Pamkuh View",
+    "city": "Holukwoh",
+    "state": "VT",
+    "zip": "90982"
+  },
+  "contact": {
+    "phone": "(279) 854-4280",
+    "servicePhone": "800916394"
+  },
+  "birthday": "1965-08-30T22:22:23.495Z",
+  "ip": "147.60.4.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta avziz if wunmec ladmi og jeg si tereb papmav geiwu co uciwac umabuc kehovu. Tus atehus adav kifah vumejov dedojip ugoubite bewo maammet duhfa sefno vimiji zoretwuc hajusun unvo. Odpud imiojah ufita gelruc afeeza ja mike ikasagub gekamas kus gugaro luw niva efo wekwa lideut. Tuvtohhav mucgofguj jupkif jahpih pomli gejki ufunu uc fuwzi fim ik id. Sutso ewemecib tag juku wunifur rihmo re cenit felsob semnoz vaoci nojdoufo zuzwajbop.",
+    "bio": "Gotha zulosuha red fezgu ilfi hiswa jadumget semzige zicadakih peagi mohoke fujameh dakojo. Wafu otolojmub futme wa rikewi hempat zalmu fuiti puriz ahipopa acnom hefo. Giti adibuho uhe ha pece hi akajonak vusakwin ren ju wuw ivner dulhij samvo. Disenris cufwak eza balsunez totohguw fozulmu sem suilage nucokasuh dapegi herhezul gomawig lubhas ci zu. Vuw zo otas ati beceku da tesnesu fecat fo tido udped ne bemap kuwum pebehhen."
+  },
+  "apiKey": "9b1600aedccfddaf2585cf5c71ac73c994b36133ccf9553971ea9d5858139c25",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
