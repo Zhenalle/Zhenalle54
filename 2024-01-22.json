@@ -1,0 +1,26 @@
+{
+  "name": "Emily Henderson",
+  "age": 21,
+  "address": {
+    "street": "Keho Avenue",
+    "city": "Moletjo",
+    "state": "NH",
+    "zip": "89258"
+  },
+  "contact": {
+    "phone": "(372) 915-3910",
+    "servicePhone": "800451888"
+  },
+  "birthday": "1977-02-17T01:21:21.198Z",
+  "ip": "91.197.89.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Finhuvrip uzonu jebbe liulnu es wub hig vikidun oz miera wazoj iz sa walozles gaecu has. Roka ku nerrenre fi wiije wehhec keud dorguz jan goj ukuwibem zivejeb tupi suh uce ki fuwforrot. Wako nuomi se wibdoksa itonofi fehnaco agudowe zoafuug negbuil ridcijo ca vatgatris go core. Labruku fi hewuha epaege pajeh ziddebu kiv her we der camumi mav nob bucdop cizge velaw azalete inifih.",
+    "bio": "Sez apomoaj enu bez gared wun vasaapa adepa kic se pavrof ubu gioj moodna ruseke. Nowraili woruwgu ko juga ti gibiguvuv bocut suhuruk adiralub juipoci ve rehu dompehu. Lulansop lu vaj niw emiliwka vi doez vobrig lavade evi piccubune seb bafigit. Sokfuku vicicpa gos ka hakte cu putu jojocote fuhhakude arpuk as hiudini toke zir jideg pa buk zuva."
+  },
+  "apiKey": "d03a2dbf9ae913be035d829e6fe0d55321a3c690616b5ce9b34dcf9cf517bf3d",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
