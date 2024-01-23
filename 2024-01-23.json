@@ -1,0 +1,26 @@
+{
+  "name": "Dean Ross",
+  "age": 24,
+  "address": {
+    "street": "Neki Place",
+    "city": "Wakolcup",
+    "state": "CT",
+    "zip": "87182"
+  },
+  "contact": {
+    "phone": "(759) 663-1521",
+    "servicePhone": "800699871"
+  },
+  "birthday": "2000-07-14T16:28:35.435Z",
+  "ip": "66.130.35.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Berjisiwo ocu liorafow unutsov te nijvi son zinerek pu hobirdo ijjevse nirihaliz rozpece. Ciwcos wig bat etvediju bol lajzij duigohi mavsof inpo duzravzak idile di. Ale seoz on je muaja cojic momu ro su tijjuka wu da miuhire pip. Diheg ju mi ucu semalekij to suvtakjuw ki liomju covo ivucekog ta huw. Goc ten tohja zowse zaobde nak mo agi jahof hiv no log dipol we.",
+    "bio": "Vi ogeoleus mefsosuve obesan edaet utiujemu hir eczut sujeje wim imowu davsi powcu webisgo fumul ducjelpu. Rejum pawelig riwidfu onvun ekemedho su li cabhitba evuzas tud pihgizad ma uccowo nim gadido bamjif idig fiwjugo. Sahenro ici ok elepeh cibabuc defob ak nobtuv emilo da geb mibefzab mifof gekus juw."
+  },
+  "apiKey": "4cdf4d6303d6f3c5b93d9e3a8528820b800d67ac9ef8eb244f4b4c0da14a5581",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
