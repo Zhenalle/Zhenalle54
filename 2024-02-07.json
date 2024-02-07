@@ -1,0 +1,26 @@
+{
+  "name": "Howard Colon",
+  "age": 39,
+  "address": {
+    "street": "Keaze Point",
+    "city": "Difonga",
+    "state": "AZ",
+    "zip": "12288"
+  },
+  "contact": {
+    "phone": "(374) 471-6466",
+    "servicePhone": "800871581"
+  },
+  "birthday": "1991-03-22T03:09:41.289Z",
+  "ip": "25.38.196.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Bozofgub et run pile si rolej morhume dit rijcuh zo delhuasu daecesuf wu ti kebjen. Kahninde pab ibdotpaf arole renjoih loiwo wovruac si fuwozup hifpiro ge hiduz wauvama. Beftomu ulime meradvi ibuuzi peowemes suzihe po rubesipih roez bepwad umice pecnolnaj opanik etaulafo.",
+    "bio": "Nuzepahi vi bed lop jefpotvok re iv mute tanon ucuma uci lofosuw to vamzegra lucomizu fer fumummaz. Cafcaami ugijufre afuvefa wa ofor morapoguj lidciga pa nofe sa belverle iwaf komapbij. Aggufgig tuses rumejrif fi cimsu caditi jak nev bit zener ikov lewce ubsecem lienas."
+  },
+  "apiKey": "b01f05b6cfbcf66dca2f02ad2fe537b98224bc9d6c5f7f69cbbbfbe21572e366",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
