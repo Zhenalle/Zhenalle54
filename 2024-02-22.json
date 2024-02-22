@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Ballard",
+  "age": 21,
+  "address": {
+    "street": "Figad Highway",
+    "city": "Bajgozi",
+    "state": "TX",
+    "zip": "71954"
+  },
+  "contact": {
+    "phone": "(989) 662-4364",
+    "servicePhone": "800418619"
+  },
+  "birthday": "1974-12-11T11:36:58.857Z",
+  "ip": "198.110.157.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Udaruged wigipsa jojaz cepano beknu arofujduz hinjeh rivi amo zavizom gu rafakrek. Kaom pefanvuj koc kiku semauh vub fauk je gatohi redhevnom om muwzehen ralpoawa imu juccanepe vabsej sajjob cior. Pijuz pob jusfu epi sih cas mib rati olsiw elimi nen vi aje sosebco loto la coosla cebokun. Te eh tuz ikuda zoz utu hitud cusuvomo dev sacmi sacholu pa me gaw onu. Iwi lemenid ru cici we zutad ucvew gitjuru fa to siijif aw eweci ruus. Nibvid jeg mavdu vam geppu ezmat va ziwutda oraju bi gevu bu. Ragek cebomme eli buej fu mos ro sarumib guibzod bul kilfuc ojzofcel jijedaz odmo.",
+    "bio": "Sidcip ego mokegen pati cuhdalum bufnulrep conda ovse jil icvofa riin rita dew. Cahmefhon nifpul mohdatra piztow oco le mobrocpim nakdud fu enapohi gumol dahewam goihapi gim wot sehe. Delijezu wegsa zelinad ipour apodibwop wi wofutuj fugirid nuc lerpag va mem tegaci jikno."
+  },
+  "apiKey": "af2b80df7d6d8bae2ce8983b9b76eb56c55ac8563b20413514ee008d9cd3b64f",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
