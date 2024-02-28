@@ -1,0 +1,26 @@
+{
+  "name": "Jean Flowers",
+  "age": 56,
+  "address": {
+    "street": "Hebwe Glen",
+    "city": "Selrigu",
+    "state": "UT",
+    "zip": "59286"
+  },
+  "contact": {
+    "phone": "(731) 329-6027",
+    "servicePhone": "800534174"
+  },
+  "birthday": "1961-12-09T15:27:44.074Z",
+  "ip": "114.89.75.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijuri vakoztu jomin valtuvaf jaba rod ikabeviza fug amilewaz kitoviij facbiec gul iftima. Jinulle ramsiw ebfi ke jilef dow nohiho te ezi maunuwuv iwe cupuraco nihcoduh sevvo nuwuefo. Socli uhovotfe dehi nefa vimtelju ak kilcog sosda tone koupusu ebaolja em. Mew rez ejsejow hiofgi kavgufubo ebubi jo hivwed hu ha hikfat fesizeda noegvu ohrulu.",
+    "bio": "Fifdon cigzam nij awi popwapne kihap ac akocov zuwofej rekivup uctaehi owapi. Jadja vegdaj tinpupa cilac le julrik ducanuafa bantubosi zero jaw mar orakuhu de naw erwod obgi gujne. Ohuwepi betda vol jaddi regit hop bipvuiz magughon ri ob disniz risnaoj. Bip ne la lawja hiwfur gunfuvjen kod zu otoma juva voc dew fison ek id eso."
+  },
+  "apiKey": "c5d8b457ab12532c6d0f68c2e7b4bd2552773dbf25aa78106ae2a4977ab6b9b9",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
