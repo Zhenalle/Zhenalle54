@@ -1,0 +1,26 @@
+{
+  "name": "Sara Armstrong",
+  "age": 23,
+  "address": {
+    "street": "Girjiw Loop",
+    "city": "Nibpekan",
+    "state": "WV",
+    "zip": "59713"
+  },
+  "contact": {
+    "phone": "(969) 881-9824",
+    "servicePhone": "800139676"
+  },
+  "birthday": "1987-12-14T05:33:33.921Z",
+  "ip": "82.236.78.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Hejaj vasgujo evi oka filiw romuzeri radfa piiza kehvavrot vacah fi ceuj bufpegu raggupcow. Mife lica fubow onbermu casulhem okowamrih umouta tuz il awaranoz otruhcu ni. Na dessu ca ricid ije vuas vormil wafco vot medami filozi vokuz wupoko ozawubotu risiza guicucer bec. Buhcaufe tacaf pokial pok cikupudu zuneriri tiav liribuwo fura mo enrelnib cal esigahaz re wukafu obnud inpe.",
+    "bio": "Achitek wuvwohaj gifigib wawic vawoh didacful ussucsi zawne wuk viftilijo kif leza wuzag otiveho. Ditacesu vi kuagrog be meh ec ve deg kap bol coleznu jul ci teava. Vizdema bo zofef dassojne ti vesra bucjieb lehzaol mi adzur ovipabge woaba rekaz raga ajafojpi hezimuh ubasu vivvatcid. Af nu cew wodapwa vu zow uni cah acgifac rih wojpuz cibtuk bon ikvoim limvis ocobucju navu wukkas. Lubjawtil ejtobuz jorok subrebib riga vidu cu rurup juluw sa posuz ziib refgifkup latop dudpa eraki. Fevme et sehnud zira cah ri huniduzu pimo hesom mahalhu olu hu cuw."
+  },
+  "apiKey": "48b8306479dc91d687b5d1b26d6f1e987c4aa51d70535c8d5a2a9598f241f547",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
