@@ -1,0 +1,26 @@
+{
+  "name": "Sara Flowers",
+  "age": 20,
+  "address": {
+    "street": "Nawfa Park",
+    "city": "Uctarih",
+    "state": "MO",
+    "zip": "45998"
+  },
+  "contact": {
+    "phone": "(445) 515-8237",
+    "servicePhone": "800251194"
+  },
+  "birthday": "1988-06-06T00:22:34.054Z",
+  "ip": "249.119.193.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Per ebdas otiku fukfekge bucfujal argow pi iko azegazet duk je hipkogjas nahvim sen zafgumo megjullah. Zaad tifbadde wa wuc vewjikil mawbok li kasa zifurde put kaj uvwe. Juk pidatzof geoh ovkic vabujno kigociuz cebnim jiipudo zet huwvoez war ojo jutub dupekwu.",
+    "bio": "Le jah nuc odutufju merfirow soromo nied wub marpu de nudimpa af noim aribius rimacizi ice. Tu afre jelzec raog galom jusbujge af jepivdof oba girvuje ajo mep bowavji. Jew oku fihbuwsa fu navor hesewu ce isku nipohem janadoalu pomuwor ju. Ru zizuaja mubiv igode awuzesdar ulre kinsidel vozomu caerano ulvoju pi riwisma nosaw goiz anamus mahi nuw. Puz ka epigigwaj co goij zovu sidim fashof valsenbo kepi utview fiz cil hido dogokah behun voves siafiwe. Fi raomo maz deuv vuc ajgueja vuah sohivo rolbi padwuzut desbiuce jij teku ekopefe tih wevfe mapivtot nope."
+  },
+  "apiKey": "e91c37ba73f920fcfaa7aa1782a2545bfcaac7793617015857301e59c1c0eb7d",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
