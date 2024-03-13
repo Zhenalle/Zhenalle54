@@ -1,0 +1,26 @@
+{
+  "name": "Marie Scott",
+  "age": 25,
+  "address": {
+    "street": "Peso View",
+    "city": "Efuzanfeg",
+    "state": "AL",
+    "zip": "42015"
+  },
+  "contact": {
+    "phone": "(312) 404-9992",
+    "servicePhone": "800649778"
+  },
+  "birthday": "1975-12-21T09:15:08.403Z",
+  "ip": "170.65.36.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Di ija asojanaca gazkes jijesto wumme bewhojle aroveceto nedceveb haikatug iji coromali vihac. Sotulobo ikawof ke ajdiume dogdidpuz ponuwkit curku foszauh vorgoze ahiuru ropfu wimzu putil cerazaru fo zilgi monit. Fumvajpu siwpaoro ab hib te ma vafa ha fapok mah bo eg umaroki kiwassu. Duzo gusaj pus af idadudak fobok lapiop uv mi vimam raz jigebkem unizut azeluet. Gohaw le fuljuspuw serara segu maf ga lofisaca va onmul fuh uwruw. Je buumja ep zilal jeawni ecavemup fajleful ojka sigi sil cocrujpik gimezon omimoj efuhev. Ukjewzok ra vumuwal kafgeof fuij vicohij mal riruha dezpalu viaru hiloju peoj opzikce it iz kopos.",
+    "bio": "Ladedkiv piwejkuz kaw izmof ogadafgi tut pijkecec ziw la warumak cu ihiha. Koilvov piba awubathu ci saj abdepim bucege sulka gek fuskat atoolo avjaso lug. Fokrudo pumhi pecfo rubi olufis hubhiheb fitoto feopu patnoc amfon duv miaf."
+  },
+  "apiKey": "79488c3ecfe32265b2d6602d2292c4f0ba68287b04f90e1619c1c20ff1d7f2cc",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
