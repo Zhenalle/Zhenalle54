@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Hall",
+  "age": 60,
+  "address": {
+    "street": "Matov Lane",
+    "city": "Zalkozi",
+    "state": "WY",
+    "zip": "67575"
+  },
+  "contact": {
+    "phone": "(562) 595-8909",
+    "servicePhone": "800961361"
+  },
+  "birthday": "1972-08-27T08:55:44.158Z",
+  "ip": "41.77.172.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Jutvehufa hopsefun jer fi horwaen tatu ete caunu gakpip nenucin errobed ka piw uha na envuwu. Izog jo be vozet ewhohmuf warid zihe ippage pebdebbo acpur bic komefso nefpuglo tawmuse. Sabejdi ro faren lok al ezacar hujamweh nijed pahuis ke lod gaf. Wenwa pidjotwir ced pilowi salejko godul jursatul secewgor pejoc nejheato ob duhotemu hek rebfa ziapno.",
+    "bio": "Pojo zot eldiwih mos okloofi wupjaseh kukod wagarom wicmuzde ribgacgu zatvo cunse nam ve tasolmu apewu pakrojtit. Izkewsu sorik lonu divwazas hudap waro padet meef naztupi eru fimsu vaansif ifa himapa jadov zece zu. Eh ucde kiitihew wab tabap fe hajar rikumtan olisi jag ij tusti neh betecol tefdolho kinerig."
+  },
+  "apiKey": "070f564c079534df6a7f7f01f666153d4d92e14f01abe4e6a613352e914ea273",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
