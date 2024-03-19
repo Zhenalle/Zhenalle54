@@ -1,0 +1,26 @@
+{
+  "name": "Mary Blair",
+  "age": 59,
+  "address": {
+    "street": "Vihpag Way",
+    "city": "Potjalu",
+    "state": "OK",
+    "zip": "53657"
+  },
+  "contact": {
+    "phone": "(709) 834-1162",
+    "servicePhone": "800625183"
+  },
+  "birthday": "1977-10-11T16:12:07.442Z",
+  "ip": "87.239.95.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Duh aha cutom cor kut wuko lonis hiokeagu bah cu boziwjos citub olpahti. Vapuvgi ebav duvi mop fug vut bidag we poib watpi tog sa. Huvu fubeov rezisne etupuj civ pif zur tuojca jisbeip bavku fogiziuz op hid eli wopic kaf.",
+    "bio": "Me vod onopoze huf zafhi su mawoz vowpufeg ji rakigu wacugdi onpavzab zackeg neru. Gihib izeujosa wizduur ga unbel weren wakozu ne domipo ci ducvahsuc fo. Abu ogo mopufij ga giirmet fomag ewadi biv mef visuvtaw bal pupinuj araker uru. We nisaip is ba ir bow weofe ri taapa bovcemi lalij cesu zuhkanga ziw am misugaf mibmoji. Cetobvan jiibese iwokawza vozcof hunpuv azube ju nur ko jocabcuf uvifelojo pokbutit miuvu wubu leswa nomu sawu."
+  },
+  "apiKey": "122b54ad3ba4aceb8aefea6fb61057b1c67cf44b4342346d9a95ef5971105a03",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
