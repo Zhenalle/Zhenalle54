@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Bass",
+  "age": 65,
+  "address": {
+    "street": "Kehol Heights",
+    "city": "Puhzalus",
+    "state": "MS",
+    "zip": "03120"
+  },
+  "contact": {
+    "phone": "(783) 237-7585",
+    "servicePhone": "800529275"
+  },
+  "birthday": "1987-12-04T03:58:34.234Z",
+  "ip": "16.77.193.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Li fanwuz evge niszi netpiwi iblojvon cigciv je mutsah sohken ifaluter uv ce. Hioz dobu wo heplu komfonow nuzge wovmohpab za musral finhahal gis iginup ezabu ipaho vebub mogali. Wo zecjaor joofpe tihatos meale zibuzcu gef mujmab hud pe map puko iha nunwet eb ka zi.",
+    "bio": "Jab wis divcuhri vagoip vus dehaz mewos boad ebaivira comipre tadibual cazco nilfafkuw mihdec wakevkuf. Ijuunuzo kow lehel lelsed wem wuga kowilo ropofu disvo sahimmip bop gotwo ipi. Bibhade ar uzouruti iha di obipita covubbo zome esebtad kam ejeedaok nufij woak. Juvluseh ubofubi ecuaj tu wocgu wonhikrav uwujjiz juf vu dinram niro ro. Bul vuf suhi bod ca sa ci avinigu kizke ne zo regoare nano ruju biafpi."
+  },
+  "apiKey": "e41c53be2c1e2a0c6b78d2921bc0da98a3bee4cf082aa912df61a126ede5ab14",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
