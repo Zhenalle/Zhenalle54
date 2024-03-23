@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Nash",
+  "age": 18,
+  "address": {
+    "street": "Ivurik Center",
+    "city": "Ajuciva",
+    "state": "VT",
+    "zip": "44828"
+  },
+  "contact": {
+    "phone": "(355) 536-1036",
+    "servicePhone": "800843957"
+  },
+  "birthday": "1960-10-03T00:43:32.475Z",
+  "ip": "236.44.116.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Unone lofahe hujkepraw usulet bidanewip gowrore wozti ka faholhu fu maic zod uwo gergu. Oz va hadeisa pujaboz magonug elof hal feb ni azwewruh maruve mobnu ozi cikihosi pi govpe vu ehe. Olepu ot woc ezi epmimoh beugobo warosi wi mebdacen gofan de zebzepmil hu muz rekowav.",
+    "bio": "Subotiwi ovniwa og fi puit lupoepo numun he ezoefejas fe vaptakden wugad. Lamokda rihhabtaf imigaj ruvo bepleffi wed difnaznov pathuv uskef urovehol eg kaf acuvimfim getiafa rewut. Igo mon lupebwu zeppebja de keb nehu ruko aku iwusigo hogete ucodesfu ja fen us."
+  },
+  "apiKey": "63dd99a7093951a1a414af18d68ba236f9dd0641ab3042152c8f9e783231b6bd",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
