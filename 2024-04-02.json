@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Obrien",
+  "age": 45,
+  "address": {
+    "street": "Meiwo Way",
+    "city": "Veekeve",
+    "state": "ND",
+    "zip": "78378"
+  },
+  "contact": {
+    "phone": "(875) 947-9088",
+    "servicePhone": "800359314"
+  },
+  "birthday": "1964-04-19T20:16:12.741Z",
+  "ip": "98.81.102.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Il mema degicki bina uw wi sigav luzolla igupohe eg ez va weda ruh finfabon cetembu wegi ke. Uljiwek lo jo gelorata vujjebor neulacug fo ga libucre sevihmo wupfa kokrajri roz ni sizihi titzufku lavopgi. Nudpahid ec muc viha dovjuluj vudon gat dim ute kirhoz epuhuvac holos conuwatos mo rium.",
+    "bio": "Kuipun cevuwiw sesjoze operiano woluh ziamhok ta roosop vo vovaja osa se nebkoczu cop hu hueluuz lo ledez. Puhgeca soldekosi vegez ravodlan sonsosa nut litnu kagkehaf touja od ijjemfu buzrongil ono vipad kotiwgo vaf. Gez junu jumudcu doko caggubok es cosbet jasu nob eferargaf pe rernontas uz futa metak ijo wusbe."
+  },
+  "apiKey": "85d87ba848beea0056826dcc011b0af4c58d2a4e044153d37abf1d76b2ac978b",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
