@@ -1,0 +1,26 @@
+{
+  "name": "Myra Wade",
+  "age": 27,
+  "address": {
+    "street": "Goat Extension",
+    "city": "Rofecako",
+    "state": "TN",
+    "zip": "50975"
+  },
+  "contact": {
+    "phone": "(436) 506-7080",
+    "servicePhone": "800448498"
+  },
+  "birthday": "1989-07-04T09:55:10.000Z",
+  "ip": "238.153.240.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Gulmutadi duw aconowo waz afjevo zewovluc hep raluf luub tonodo dadut hogma fo cetinigu beb be go. Nafmeawa tu torew lubtuwufa ezacuk jav fep kum agecow sesin vesa ozum. Pomulbur hod limahtok penhovboz peoga elopurog wosewe uz ibobu sez inbip nowtoza ufo.",
+    "bio": "Dohzi afvevumu vad jaduw ogihik sodrasimo risbi magbiuf fafmavsu cazasu daega vi omhuku padivi sumjufhid wujloz afuzazsi. Ho dudib cagume ifpovvi du babuz molodot sud igfe dobme rogke vega. Kigtu ezeiwjuz tudij ugwocre apidadki ecoehesa dahu lardeseh farjedbi ge mi bejkounu megahed do bamrukjiz wocduv."
+  },
+  "apiKey": "901065fa4bd0a372a326cbf1dad46facf8f28dcc3df1b694304d16c1a29fad55",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
