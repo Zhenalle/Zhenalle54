@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Hoffman",
+  "age": 53,
+  "address": {
+    "street": "Dukom Lane",
+    "city": "Lubogi",
+    "state": "ME",
+    "zip": "09579"
+  },
+  "contact": {
+    "phone": "(886) 340-6495",
+    "servicePhone": "800257325"
+  },
+  "birthday": "1978-11-22T07:57:09.181Z",
+  "ip": "107.80.14.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Tecus ro no aghuja zeve hasre mogeit ozodurdif udu on iroman runbenmi nobrizme. Fona coj wokewol muhcakce comad il dipbav cuzfanupi vaha asaide napesi bo hesafca mi cugoho. Luppoj kaho kom woudi tero gac voupaafi homkaumi azauvmed vozrujad uhemarmu dud zokdeir hol no vunfu cojajgi. Ruidsah kole uwcigofi gif gojanuhih hoeho ka virvar puj emuzil cew hanamil ufgu zesi zufo mecewa hahfo wueraroz. Urozuzo nuzdo japte mu vo rovomem rizo kocusowu nod hos le wawcutza ameimoove nefanhoz cevego. Eni keudji ja sevezpif tigumaza nofed wuwvufku zudur cec wid pevama jimpezuw ru vu mavufo ga ciwze ki.",
+    "bio": "Epadotlam gitejoko kepluzuh ciwocci gonid wotdezjan tu tuhjehiw eriewvek zewhemhaz sietepek awvoz utsatok ilo veja. Rif dal lawvic jiotde toplos inabawo gudaj ideho lob simpel tatpal raslu jikel matkuf. Novzen ja des wubow do koz bepugmam cevmokalu ipo cuhnuvzes tabuwco am me bikib jeewuid zutfa."
+  },
+  "apiKey": "c6df03e8b3c1418893351783a6cb9afc395a80cd25ff6b871f39524f7573f484",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
