@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Freeman",
+  "age": 25,
+  "address": {
+    "street": "Ikunes Center",
+    "city": "Zellewem",
+    "state": "AZ",
+    "zip": "74210"
+  },
+  "contact": {
+    "phone": "(720) 684-3363",
+    "servicePhone": "800242687"
+  },
+  "birthday": "1980-05-15T01:28:40.123Z",
+  "ip": "199.131.43.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Waj eljac pibe ja zofre diuwafoz ikgeslew cicofoh wepawe li nijkin jisove muggakvu boruw. Ira mib os roknafwog cihik divepza aba pejizej wufguwa jihwal bo kazik ikmeoru. Nap lar hemilawe sukim vaju suv bih ap hom holta volohi wuwe lumus tepat piaco. Kerej pibusve va tanealu ze fekji riv fisidu dim iticapa uhwubic vavrufag fanec.",
+    "bio": "Uri suilule caamde fiwguk himfutunu edi tacruma deic acfus bokhu ojgim be assecren zi wi. Penauva kegkigu oz noenvi fom von fic ru rehubasaf jil cimirca ohuvur saja kuro jifu ap teh leok. Bu sis vu zi taflodra dobec jarde gineb uhu bedivi coiha kev bejud mihagrez jazalwiv zoesodu. Jafsuaj salufo ha wal vir vuuvu mumettof ware retin nebawgij ze ricdasoza sebkebej zunifgun mam ibpimrag epugofce cet. Wowmam cegsewze ip caezaz tousofu con sa keem jaenauti kefbav kimdo hoevois agpu jifnuzcu sepipi higuuj."
+  },
+  "apiKey": "e0565b55fa03f2f9151e983e8c319b8537eb1653c7195163773afab9136dd074",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
